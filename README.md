@@ -1,2 +1,2 @@
-# ejemplo
-subiendo desde jupyter 
+# finanzas_python
+ 
